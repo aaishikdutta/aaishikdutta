@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I am a software engineer navigating agentic autonomy.
+I am an engineer.
